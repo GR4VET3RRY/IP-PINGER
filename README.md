@@ -1,6 +1,5 @@
 # IP-PINGER
 
-By GR4VE-T3RRY and the other grave-sec members!! A tool to ping a range of IP addresses
 
 This is a simple command-line tool written in C# to show a better way to build .NET Core console apps.
 
